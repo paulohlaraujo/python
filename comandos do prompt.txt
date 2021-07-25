@@ -1,0 +1,6 @@
+Mudança de diretório
+
+cd../ -> sobe o diretório
+
+cd nome_do_pasta -> desce o diretório
+
